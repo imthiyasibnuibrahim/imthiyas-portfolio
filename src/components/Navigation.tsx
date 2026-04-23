@@ -18,6 +18,7 @@ export default function Navigation() {
 
   const navLinks = [
     { name: "Journey", href: "#journey" },
+    { name: "Engineering", href: "#engineering" },
     { name: "Portfolio", href: "#portfolio" },
     { name: "Ventures", href: "#ventures" },
     { name: "Contact", href: "#contact" },

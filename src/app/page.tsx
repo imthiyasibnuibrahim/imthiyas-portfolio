@@ -1,6 +1,7 @@
 import Navigation from "@/components/Navigation";
 import Hero from "@/components/Hero";
 import JourneyTimeline from "@/components/JourneyTimeline";
+import SoftwareProjects from "@/components/SoftwareProjects";
 import InteractiveDiagrams from "@/components/InteractiveDiagrams";
 import CreativePortfolio from "@/components/CreativePortfolio";
 import BusinessVentures from "@/components/BusinessVentures";
@@ -18,6 +19,7 @@ export default async function Home() {
       
       <Hero />
       <JourneyTimeline />
+      <SoftwareProjects />
       <InteractiveDiagrams />
       <CreativePortfolio initialItems={portfolioItems} />
       <BusinessVentures />

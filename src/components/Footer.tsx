@@ -20,7 +20,7 @@ export default function Footer() {
           </p>
 
           <div className="flex items-center gap-4">
-            <motion.a whileHover={{ y: -3, color: "#fff" }} whileTap={{ scale: 0.9 }} href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-foreground/50 hover:text-foreground transition-all">
+            <motion.a whileHover={{ y: -3, color: "#fff" }} whileTap={{ scale: 0.9 }} href="https://github.com/imthiyasibnuibrahim" target="_blank" rel="noopener noreferrer" className="text-foreground/50 hover:text-foreground transition-all">
               <Github size={20} />
             </motion.a>
             <motion.a whileHover={{ y: -3, color: "#fff" }} whileTap={{ scale: 0.9 }} href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-foreground/50 hover:text-foreground transition-all">
