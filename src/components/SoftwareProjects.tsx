@@ -106,7 +106,7 @@ export default function SoftwareProjects() {
 
             <div className="flex flex-wrap gap-4 mt-auto">
               <a 
-                href="https://github.com/imthiyasibnuibrahim" 
+                href="https://the-campus-nav.vercel.app" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full bg-emerald-500 text-white font-semibold hover:bg-emerald-600 transition-colors shadow-lg shadow-emerald-500/25"
@@ -115,13 +115,13 @@ export default function SoftwareProjects() {
                 Live Demo / Working Link
               </a>
               <a 
-                href="https://github.com/imthiyasibnuibrahim" 
+                href="https://github.com/imthiyasibnuibrahim/theCampusNav" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full bg-white/10 text-white font-semibold hover:bg-white/20 transition-colors border border-white/10"
               >
                 <Github className="w-5 h-5" />
-                GitHub Profile
+                GitHub Repository
               </a>
             </div>
           </div>
